@@ -1,5 +1,5 @@
 <h1>Página de Login Moderna</h1>
-<p>Em treinamento realizei a criação de uma página de login moderna utilizando html, css e javascript.</p>
+<p>Em treinamento, realizei a criação de uma página de login moderna utilizando html, css e javascript.</p>
 
 <p>Segue abaixo imagens demonstrativas.</p>
 
